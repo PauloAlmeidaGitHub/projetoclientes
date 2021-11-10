@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EsshgqZ6Bd6Q++304rdZip+xupjYqUVEi4QbTj377EH73qsaczwWdJNQyJdRkLRiIumEr/PMeN3YwR4jP62uaQ==",
+  "dgSpecHash": "q5lMEMkri3CZt7PaL2x3C51MypNC7GqKLzMirHl8pcFi8cxyDlXD3ZnwJBlpGNtOgxiqmfEMj3beJrAf9ibWRg==",
   "success": true,
-  "projectFilePath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\Aula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj",
+  "projectFilePath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ts1T96Uc8VDbsAQPNBx4+8jG5fHMxUyEuOHC4GxbkTzYyfjJ2vSRO7ZtOQdBvKEfD2mnbMO1feemgKesdxmuAA==",
+  "dgSpecHash": "uzVyfGuUzHxLAwA49UbaGzENF63GVE+vID8HJhaLqBrstw2ub9tOzFgIQ4ITvQ0GtqRtB3zFHFtk6+rsGzYsSA==",
   "success": true,
-  "projectFilePath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\Aula\\ProjetoClientes\\ProjetoClientes.Infra.Repository\\ProjetoClientes.Infra.Repository.csproj",
+  "projectFilePath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Infra.Repository\\ProjetoClientes.Infra.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
