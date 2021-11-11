@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Services\\ProjetoClientes.Services.csproj": {}
+    "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Services\\ProjetoClientes.Services.csproj": {}
   },
   "projects": {
-    "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\ProjetoClientes.Application.csproj": {
+    "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\ProjetoClientes.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\ProjetoClientes.Application.csproj",
+        "projectUniqueName": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\ProjetoClientes.Application.csproj",
         "projectName": "ProjetoClientes.Application",
-        "projectPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\ProjetoClientes.Application.csproj",
+        "projectPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\ProjetoClientes.Application.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\obj\\",
+        "outputPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj": {
-                "projectPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj"
+              "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj": {
+                "projectPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj": {
+    "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj",
+        "projectUniqueName": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj",
         "projectName": "ProjetoClientes.Domain",
-        "projectPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj",
+        "projectPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\obj\\",
+        "outputPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -128,14 +128,14 @@
         }
       }
     },
-    "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Services\\ProjetoClientes.Services.csproj": {
+    "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Services\\ProjetoClientes.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Services\\ProjetoClientes.Services.csproj",
+        "projectUniqueName": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Services\\ProjetoClientes.Services.csproj",
         "projectName": "ProjetoClientes.Services",
-        "projectPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Services\\ProjetoClientes.Services.csproj",
+        "projectPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Services\\ProjetoClientes.Services.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Services\\obj\\",
+        "outputPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -158,8 +158,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\ProjetoClientes.Application.csproj": {
-                "projectPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\ProjetoClientes.Application.csproj"
+              "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\ProjetoClientes.Application.csproj": {
+                "projectPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\ProjetoClientes.Application.csproj"
               }
             }
           }

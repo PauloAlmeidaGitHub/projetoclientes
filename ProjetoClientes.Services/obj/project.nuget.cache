@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7kVIRZmjcmSoNyU/HvYEmn/FprYcpDL6lQXc1zibnDQnH+TI9OnRKW81JAXQa+Eh0T4maIRslaw1LZAywewVjg==",
+  "dgSpecHash": "cnQT75BymKrGSWDGX9igWR6efjxvdKBgjob+yYBT2jB2zFf1Ywi3m+A7qGqfc7S/tl/mhtmMNdiCnIio3h00Pw==",
   "success": true,
-  "projectFilePath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Services\\ProjetoClientes.Services.csproj",
+  "projectFilePath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Services\\ProjetoClientes.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

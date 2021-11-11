@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q5lMEMkri3CZt7PaL2x3C51MypNC7GqKLzMirHl8pcFi8cxyDlXD3ZnwJBlpGNtOgxiqmfEMj3beJrAf9ibWRg==",
+  "dgSpecHash": "pIRS5grDs0TRbK+vysY0DKcMhBMxHSWgYcFkjoykMbku3JYqp4GAR+KskWTov7x1AYC5ELubSD9Ob9seQRopNQ==",
   "success": true,
-  "projectFilePath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj",
+  "projectFilePath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Domain\\ProjetoClientes.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

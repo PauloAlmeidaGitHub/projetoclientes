@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hqMT7xrT1PmhAxZm4a8gUg5QD7pPQDBiNYqmxAX0ftOPukrJ/jE3dQAoOB8kqClVuToEAd8LWmtpCXmVz0IlwA==",
+  "dgSpecHash": "TOyo8dCh+aMVhSHoAycYBpv6CDF1GzoxWGBkW1GSGNzOlQgPlq8tnfDJ+Pu16sFXgjyDt+L4eMGUmog5qBC7Bw==",
   "success": true,
-  "projectFilePath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Test\\ProjetoClientes.Test.csproj",
+  "projectFilePath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-Api-CORS-Controller-TDD-Domain-Migrations-GIT\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Test\\ProjetoClientes.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulo\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
