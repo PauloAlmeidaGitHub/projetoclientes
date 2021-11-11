@@ -16,12 +16,13 @@ namespace ProjetoClientes.Domain.Services
     {
         //atributo
         private readonly IClienteRepository _clienterepository;
-
         //construtor para inicializar o atributo (injeção de dependência)
         public ClienteDomainService(IClienteRepository clienterepository) : base(clienterepository)
         {
             _clienterepository = clienterepository;
         }
+
+
 
         //Sobrescrever o método Create
         public override void Create(Cliente obj)

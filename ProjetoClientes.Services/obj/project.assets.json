@@ -72,6 +72,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "ProjetoClientes.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ProjetoClientes.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProjetoClientes.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoClientes.Application.dll": {}
+        }
+      },
+      "ProjetoClientes.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ProjetoClientes.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoClientes.Domain.dll": {}
+        }
       }
     }
   },
@@ -200,10 +223,21 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "ProjetoClientes.Application/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoClientes.Application/ProjetoClientes.Application.csproj",
+      "msbuildProject": "../ProjetoClientes.Application/ProjetoClientes.Application.csproj"
+    },
+    "ProjetoClientes.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoClientes.Domain/ProjetoClientes.Domain.csproj",
+      "msbuildProject": "../ProjetoClientes.Domain/ProjetoClientes.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "ProjetoClientes.Application >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -241,7 +275,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\ProjetoClientes.Application.csproj": {
+              "projectPath": "D:\\_CURSOS\\COTI\\.PRINCIPAL\\Webdeveloper.net 2021_09 SQS N4\\Aula22-DDD\\ProjetoAula\\ProjetoClientes\\ProjetoClientes.Application\\ProjetoClientes.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

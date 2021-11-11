@@ -16,7 +16,6 @@ namespace ProjetoClientes.Domain.Services
     {
         //atributo
         private readonly IBaseRepository<T> _baseRepository;
-
         //construtor para inicializar o atributo (injeção de dependência)
         public BaseDomainService(IBaseRepository<T> baseRepository)
         {

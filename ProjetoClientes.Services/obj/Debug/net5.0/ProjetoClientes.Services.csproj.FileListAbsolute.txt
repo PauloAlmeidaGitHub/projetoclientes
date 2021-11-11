@@ -56,3 +56,7 @@ D:\_CURSOS\COTI\.PRINCIPAL\Webdeveloper.net 2021_09 SQS N4\Aula22-DDD\ProjetoAul
 D:\_CURSOS\COTI\.PRINCIPAL\Webdeveloper.net 2021_09 SQS N4\Aula22-DDD\ProjetoAula\ProjetoClientes\ProjetoClientes.Services\obj\Debug\net5.0\ref\ProjetoClientes.Services.dll
 D:\_CURSOS\COTI\.PRINCIPAL\Webdeveloper.net 2021_09 SQS N4\Aula22-DDD\ProjetoAula\ProjetoClientes\ProjetoClientes.Services\obj\Debug\net5.0\ProjetoClientes.Services.pdb
 D:\_CURSOS\COTI\.PRINCIPAL\Webdeveloper.net 2021_09 SQS N4\Aula22-DDD\ProjetoAula\ProjetoClientes\ProjetoClientes.Services\obj\Debug\net5.0\ProjetoClientes.Services.genruntimeconfig.cache
+D:\_CURSOS\COTI\.PRINCIPAL\Webdeveloper.net 2021_09 SQS N4\Aula22-DDD\ProjetoAula\ProjetoClientes\ProjetoClientes.Services\bin\Debug\net5.0\ProjetoClientes.Application.dll
+D:\_CURSOS\COTI\.PRINCIPAL\Webdeveloper.net 2021_09 SQS N4\Aula22-DDD\ProjetoAula\ProjetoClientes\ProjetoClientes.Services\bin\Debug\net5.0\ProjetoClientes.Domain.dll
+D:\_CURSOS\COTI\.PRINCIPAL\Webdeveloper.net 2021_09 SQS N4\Aula22-DDD\ProjetoAula\ProjetoClientes\ProjetoClientes.Services\bin\Debug\net5.0\ProjetoClientes.Application.pdb
+D:\_CURSOS\COTI\.PRINCIPAL\Webdeveloper.net 2021_09 SQS N4\Aula22-DDD\ProjetoAula\ProjetoClientes\ProjetoClientes.Services\bin\Debug\net5.0\ProjetoClientes.Domain.pdb

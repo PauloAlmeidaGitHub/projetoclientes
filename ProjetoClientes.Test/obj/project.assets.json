@@ -1740,10 +1740,34 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
+      "ProjetoClientes.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ProjetoClientes.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProjetoClientes.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoClientes.Application.dll": {}
+        }
+      },
+      "ProjetoClientes.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ProjetoClientes.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoClientes.Domain.dll": {}
+        }
+      },
       "ProjetoClientes.Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "ProjetoClientes.Application": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "compile": {
@@ -6116,6 +6140,16 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "ProjetoClientes.Application/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoClientes.Application/ProjetoClientes.Application.csproj",
+      "msbuildProject": "../ProjetoClientes.Application/ProjetoClientes.Application.csproj"
+    },
+    "ProjetoClientes.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoClientes.Domain/ProjetoClientes.Domain.csproj",
+      "msbuildProject": "../ProjetoClientes.Domain/ProjetoClientes.Domain.csproj"
     },
     "ProjetoClientes.Services/1.0.0": {
       "type": "project",
